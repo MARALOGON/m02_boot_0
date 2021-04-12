@@ -12,4 +12,4 @@ def sumaTodos(limitTo, f):
     return resultado
 
 print(sumaTodos(100, normal))
-print(sumaTodos(3, cuadrado))
+print(sumaTodos(4, cuadrado))
